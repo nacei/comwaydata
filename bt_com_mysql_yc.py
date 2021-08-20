@@ -1,7 +1,7 @@
 #!/usr/bin/python
 # -*- coding:UTF-8 -*-
 # use comway map to com port and read the data from com,
-# represent the data and sent to  web port 5000 盐城加固监测
+# represent the data and sent to mysql 盐城加固监测
 # programer: hanxiaojian
 # 2020.12 盐城比天设备
 # _author_ = 'hanxiaojian njtech'
